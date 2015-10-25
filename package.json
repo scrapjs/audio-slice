@@ -1,0 +1,33 @@
+{
+  "name": "audio-slice",
+  "version": "1.0.0",
+  "description": "Slice audio stream to duration",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/audio-lab/slice"
+  },
+  "keywords": [
+    "audio",
+    "pcm",
+    "sound"
+  ],
+  "author": "Deema Yvanow <dfcreative@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/audio-lab/slice/issues"
+  },
+  "homepage": "https://github.com/audio-lab/slice",
+  "dependencies": {
+    "inherits": "^2.0.1",
+    "pcm-util": "^1.1.5",
+    "xtend": "^4.0.0"
+  },
+  "devDependencies": {
+    "audio-generator": "^1.0.5",
+    "audio-speaker": "^1.1.2"
+  }
+}
