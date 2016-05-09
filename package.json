@@ -22,12 +22,12 @@
   },
   "homepage": "https://github.com/audio-lab/slice",
   "dependencies": {
+    "audio-through": "^2.1.0",
     "inherits": "^2.0.1",
-    "pcm-util": "^1.1.5",
     "xtend": "^4.0.0"
   },
   "devDependencies": {
-    "audio-generator": "^1.0.5",
-    "audio-speaker": "^1.1.2"
+    "audio-generator": "^2.0.3",
+    "audio-speaker": "^1.2.4"
   }
 }
