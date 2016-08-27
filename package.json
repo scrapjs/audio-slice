@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/audio-lab/slice"
+    "url": "https://github.com/audiojs/audio-slice"
   },
   "keywords": [
     "audio",
@@ -18,9 +18,9 @@
   "author": "Deema Yvanow <dfcreative@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/audio-lab/slice/issues"
+    "url": "https://github.com/audiojs/audio-slice/issues"
   },
-  "homepage": "https://github.com/audio-lab/slice",
+  "homepage": "https://github.com/audiojs/audio-slice",
   "dependencies": {
     "audio-through": "^2.1.0",
     "inherits": "^2.0.1",
