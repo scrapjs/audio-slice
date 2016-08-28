@@ -1,6 +1,6 @@
 {
   "name": "audio-slice",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "Slice audio stream to duration",
   "main": "index.js",
   "scripts": {
