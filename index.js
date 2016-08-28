@@ -33,7 +33,7 @@ AudioSlice.prototype.duration = Infinity;
 
 AudioSlice.prototype.process = function (chunk) {
 	if (this.count + chunk.length >= this.sampleRate * this.duration) {
-		this.end();
+		return null;
 	}
 }
 
