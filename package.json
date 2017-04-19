@@ -29,6 +29,6 @@
   },
   "devDependencies": {
     "audio-generator": "^2.0.5",
-    "audio-speaker": "^1.3.2"
+    "audio-speaker": "^1.3.3"
   }
 }
