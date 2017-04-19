@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/audiojs/audio-slice",
   "dependencies": {
-    "audio-through": "^2.1.0",
+    "audio-through": "^2.1.4",
     "inherits": "^2.0.1",
     "xtend": "^4.0.0"
   },
